@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">NAME: </string>
+    <string name="description">DESCRIPTION: </string>
+    <string name="pick_date">PICK DATE</string>
+    <string name="pick_time">PICK TIME</string>
+    <string name="submit">SUBMIT</string>
+    <string name="setting">Settings</string>
+</resources>
